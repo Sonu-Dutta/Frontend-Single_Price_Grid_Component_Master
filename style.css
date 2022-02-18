@@ -137,6 +137,9 @@ main > div {
   .box-2 button:active {
     transform: scale(1);
   }
+  #per{
+    font-size: 0.7rem;
+  }
 
 @media screen and (min-width: 500px) {
     main {
